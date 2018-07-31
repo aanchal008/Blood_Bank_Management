@@ -1,4 +1,5 @@
 # Blood_Bank_Management
-contains a working blood bank mangement project.
-Front end using html,css and javascript
-Backend using Php.
+This is a working website of blood bank mangement.
+The website is mainly made with php,html,css,javascript and Database using MYSQL.
+This is a simple blood bank management system in which user can send blood requirements, search for the blood and after login you can even donate the blood in upcoming camps.
+Databases is built using Sql queries and databases connection using php.
